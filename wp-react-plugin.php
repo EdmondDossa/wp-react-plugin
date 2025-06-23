@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: React Plugin Structure
+Plugin Name: WP React Plugin
 Plugin URI: 
 Description: Wordpress Plugin Strucuture with react js
 Version: 1.0.0
